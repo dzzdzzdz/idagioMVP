@@ -1,6 +1,6 @@
 My Notes:
 
-In this version, the MVP, I completed it in one full work day. I stuck with React because I was most familiar with it. I chose not to use redux because it is such a simple app and the main app component could hold all the state data. The biggest difficulty I had was dealing with the "type of each performer" criteria. I wanted to finish this task in one day and decided to skip over having a nested array of objects in my state. That would require more special handling of data, so for the sake of time I simply left one string field for the performer's name. I spent the weekend attempting to complete this task with a full-stack architecture, but I had some difficulties. Look at the README in the other github repo for more details.
+In this version, the MVP, I completed it in one full work day. I stuck with React because I was most familiar with this framework, and used semantic-ui-react for style. I chose not to use redux because it is such a simple app and the main app component could hold all the state data. The biggest difficulty I had was dealing with the "type of each performer" criteria. I wanted to finish this task in one day and decided to skip over having a nested array of objects in my state. That would require more special handling of data, so for the sake of time I simply left one string field for the performer's name. I spent the weekend attempting to complete this task with a full-stack architecture, but I had some difficulties. Look at the README in the other github repo for more details.
 
 ## Usage
 
